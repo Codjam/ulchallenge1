@@ -1,3 +1,13 @@
+.containerBlogPost {
+  width: 75%;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  border-radius: 5px;
+  margin-bottom: 25px;
+  margin-left: 200px;
+}
+
 body {
   background-color: #efeee7;
   margin: 0;
@@ -14,6 +24,16 @@ body {
   background-color: #333333;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-family: "Comic Sans MS";
+}
+
+.horizontalRule {
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.textContainer {
+  line-height: 150%;
 }
 
 section {
@@ -25,6 +45,7 @@ section {
 img {
   height: 200px;
   width: 200px;
+  border-radius: 5px;
 }
 
 .textContainer {
