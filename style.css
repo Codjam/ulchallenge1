@@ -6,6 +6,14 @@
   border-radius: 5px;
   margin-bottom: 25px;
   margin-left: 200px;
+  /* background: conic-gradient(
+    red 6deg,
+    orange 6deg 18deg,
+    yellow 18deg 45deg,
+    green 45deg 110deg,
+    blue 110deg 200deg,
+    purple 200deg
+  ); */
 }
 
 body {
@@ -30,7 +38,7 @@ body {
 
 .horizontalRule {
   width: 90%;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .textContainer {
@@ -47,9 +55,6 @@ img {
   height: 200px;
   width: 200px;
   border-radius: 5px;
-}
-
-.textContainer {
 }
 
 #dog-1 {
